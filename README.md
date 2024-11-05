@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on websockets api<br>🌱 I’m currently learning ml with c++
+👋 Hi there! I'm Farhan, a passionate technology enthusiast and a student pursuing a Bachelor of Technology in Electronics and Communication Engineering. My interests span across various domains, including programming, machine learning, artificial intelligence, and robotics.
+
+🌟 What I Do
+Programming: I'm proficient in languages like C, C++, Python, and Rust, and I have experience with frameworks such as Node.js, React, Flask, and ASP.NET.
+Projects: I enjoy working on innovative projects, from developing a particle system in C++ to building a robot that interprets sign language using Raspberry Pi and OpenCV.
+Learning: I love exploring new technologies and constantly seek to expand my skill set, whether it's diving into IoT, UI/UX design, or the latest in machine learning.
 
 
 ## 🌐 Socials:
