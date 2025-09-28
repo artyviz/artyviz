@@ -53,5 +53,3 @@ Hi, I'm **Farhan** — a technology enthusiast and **ECE undergrad (B.Tech, 2022
 ![Contributions](https://github-contributor-stats.vercel.app/api?username=artyviz\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
 
 ---
-
-[Visit Count](https://visitcount.itsvg.in/api?id=artyviz&icon=0&color=0)
