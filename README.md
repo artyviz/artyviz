@@ -44,7 +44,6 @@ Hi, I'm **Farhan** — a technology enthusiast and **ECE undergrad (B.Tech, 2022
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=artyviz\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=artyviz\&theme=dark\&hide_border=false)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=artyviz\&theme=dark\&hide_border=false\&layout=compact)
 
 ---
 
