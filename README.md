@@ -15,7 +15,7 @@ Hi, I'm **Farhan** — a technology enthusiast and **ECE undergrad (B.Tech, 2022
 
 ## Connect With Me
 
-[LinkedIn](https://linkedin.com/in/farhanfx) | [GitHub](https://github.com/artyviz) | [Instagram](https://instagram.com/alt.arty) | [YouTube](https://youtube.com/@@artemis7402)
+[LinkedIn](https://linkedin.com/in/farhanfx) 
 
 ---
 
